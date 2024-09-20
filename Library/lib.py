@@ -69,5 +69,7 @@ class SeleniumWrapper:
     def nothing(self):
         return "sonu gandu"
 
+    def non(self):
+        return "nothing"
 
 
