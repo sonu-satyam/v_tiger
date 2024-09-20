@@ -17,3 +17,5 @@ def _driver(request):
     yield driver
     driver.close()
 
+def func():
+    return "akash"
