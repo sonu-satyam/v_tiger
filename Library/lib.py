@@ -66,5 +66,8 @@ class SeleniumWrapper:
     def screen_shot(self):
         self.driver.save_screenshot("screenshot.png")
 
+    def nothing(self):
+        return "sonu gandu"
+
 
 
