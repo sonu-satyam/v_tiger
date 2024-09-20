@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffef9fd9-f1af-4424-a300-c1cff8ce1361" name="Changes" comment="v_tiger_framework" />
+    <list default="true" id="ffef9fd9-f1af-4424-a300-c1cff8ce1361" name="Changes" comment="crm framework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +48,7 @@
     "Python.excel.executor": "Run",
     "Python.login.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "<unknown>",
+    "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "settings.editor.splitter.proportion": "0.27522936"
   }
@@ -215,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726678282168</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="crm framework">
+      <option name="closed" value="true" />
+      <created>1726811288396</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726811288396</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,7 +239,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v_tiger_framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="v_tiger_framework" />
+    <MESSAGE value="crm framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="crm framework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

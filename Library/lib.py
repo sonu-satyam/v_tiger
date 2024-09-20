@@ -63,5 +63,8 @@ class SeleniumWrapper:
         actions = ActionChains(self.driver)
         actions.drag_and_drop(source_element,target_element)
 
+    def screen_shot(self):
+        self.driver.save_screenshot("screenshot.png")
+
 
 
