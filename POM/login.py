@@ -13,3 +13,6 @@ class Login:
         a.send_data(Login.locators["username"],"admin")
         a.send_data(Login.locators["password"],"admin")
         a.click_element(Login.locators["click"])
+
+    def add(self):
+        return "add"
