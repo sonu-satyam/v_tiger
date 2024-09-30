@@ -1,7 +1,14 @@
 from POM.login import Login
 from Library.lib import SeleniumWrapper
+import pytest
 
-def test_login(_driver):
-    a = SeleniumWrapper(_driver)
-    login = Login(_driver)
+@pytest.mark.smoke_test
+def test_login(driver_):
+    # print(driver_)
+    print("hello world")
+    a = SeleniumWrapper(driver_)
+    login = Login(driver_)
     login.login()
+
+
+
