@@ -5,7 +5,6 @@ import pytest
 @pytest.mark.smoke_test
 def test_login(driver_):
     # print(driver_)
-    print("hello world")
     a = SeleniumWrapper(driver_)
     login = Login(driver_)
     login.login()
